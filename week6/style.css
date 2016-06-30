@@ -1,3 +1,7 @@
+/* LED wall picture https://www.flickr.com/photos/syntropy/2861992111	*/
+/* microphone texture picture http://www.publicdomainpictures.net/view-image.php?image=2914 */
+/* Soundboard picture https://www.flickr.com/photos/ceasedesist/5821282085	*/
+
 body {
 	background: #1b4769;
 }
@@ -134,8 +138,7 @@ img.toppic {
 }
 
 img.article	{
-	/* LED wall picture https://www.flickr.com/photos/syntropy/2861992111	*/
-	/* microphone texture picture http://www.publicdomainpictures.net/view-image.php?image=2914 */
+	
 	width: 100%;
 	height: 200px;
 	border-bottom: 2px solid #1b4769;
@@ -179,6 +182,7 @@ img.banner{
 
 
 ul {
+	
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;	
 	border-radius: 0px 0px 10px 10px;
     list-style-type: none;
@@ -191,6 +195,7 @@ ul {
 }
 
 li {
+	font-size: 15px;
 	width: 14.213%;
 	border-right: 1px solid #bbb;
     float: left;
