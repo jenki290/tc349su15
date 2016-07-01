@@ -2,6 +2,12 @@
 /* microphone texture picture http://www.publicdomainpictures.net/view-image.php?image=2914 */
 /* Soundboard picture https://www.flickr.com/photos/ceasedesist/5821282085	*/
 
+
+#border {
+	border: 2px solid #0b1d2b;
+	
+}
+
 body {
 	background: #1b4769;
 }
@@ -18,6 +24,13 @@ img.retail {
 	height: 500px;
 	float:right;
 }
+
+#emptybox {
+	height: 30px;
+	background: #1b4769;
+	
+}
+
 
 #left {
 	font-family: Arial, Helvetica, sans-serif;
@@ -112,12 +125,11 @@ header {
 	padding-bottom: 15px;
 }
 
-#title{
-	margin-top: 30px;
-	background: #1b4769;
-	border-radius: 10px 10px 0 0;
+
+
+#title {
+	height: 45px;
 	padding-left: 15px;
-	border: 2px solid black;
 	border-bottom: 2px solid #1b4769;
 	
 }
@@ -150,6 +162,7 @@ img.article	{
     width: 100%;
     height: 345px;
 }
+
 .rotating-item {
     display: none;
     position: absolute;
