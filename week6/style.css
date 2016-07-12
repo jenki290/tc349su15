@@ -42,7 +42,7 @@ img.retail {
 	margin-top: 30px;
 	margin-left: 30px;
 	background: #3e79a5;
-	width: 24%;
+	width: 300px;
 	color: white;
 	
 }
@@ -55,12 +55,14 @@ img.retail {
 	margin-top: 30px;
 	margin-left: 30px;
 	background: #3e79a5;
-	width: 24%;
+	width: 300px;
 	color: white;
 	
 }
 
+
 #right {
+	
 	font-family: Arial, Helvetica, sans-serif;
 	margin-left: 360px;
 	border-radius: 5px 5px 0px 0px;
